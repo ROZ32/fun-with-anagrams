@@ -1,0 +1,25 @@
+{
+  "name": "fun-with-anagrams",
+  "version": "1.0.0",
+  "description": "Solution to the Hacker Rank problem 'Fun with Anagram' - JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ROZ32/fun-with-anagrams.git"
+  },
+  "keywords": [
+    "Fun",
+    "Anagrams",
+    "Javascript"
+  ],
+  "author": "Oscar S.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ROZ32/fun-with-anagrams/issues"
+  },
+  "homepage": "https://github.com/ROZ32/fun-with-anagrams#readme"
+}
